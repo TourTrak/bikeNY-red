@@ -3,7 +3,7 @@ bikeNY-red
 
 ![screenshot](https://raw.githubusercontent.com/tofferrosen/bikeNY-red/master/preview.png)
 
-bikeNY-red is a carto styling developed for the TD Five Boro Bike Tour mobile application, and is based from the [OSM Bright template]. To setup and use, simply follow the instructions given by OSM-bright. 
+bikeNY-red is a carto styling developed for the TD Five Boro Bike Tour mobile application, and was built on top of the [OSM Bright template]. To setup and use, simply follow the instructions given by OSM-bright. 
 
 [OSM Bright template]: https://github.com/mapbox/osm-bright
 
