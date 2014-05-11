@@ -116,3 +116,10 @@ on its loading status. You can also check the TileMill logs to see the download
 status of the remote files.
 
 Once the map tiles show up, you're now ready to start editing the template in TileMill!
+
+### Generating the Slippery Tiles
+
+In TileMill, find the Export dropdown inside your project and export it as MBTiles. Make sure you define the center and bounds as these are searched for inside the TourTrak Mobile application. Use the [mbutil] tool to export the MBTiles to the slippery tiles - instructions are included in their README. Once this is done, just drag and drop this to the TourTrak Mobile Application resources/map-tiles directory overwritting everything. 
+
+[mbutil]: https://github.com/mapbox/mbutil
+
