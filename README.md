@@ -8,7 +8,7 @@ bikeNY-red is a carto styling developed for the TD Five Boro Bike Tour mobile ap
 [TileMill]: https://www.mapbox.com/tilemill
 [OSM Bright template]: https://github.com/mapbox/osm-bright
 
-Setup Instructions (Copied from OSM-Bright)
+Setup Instructions (Copied from OSM-Bright). Note all configuration/make/etc files are under the setup directory included from the OSM bright project.
 ------------------
 
 ### 1. Download shapefiles
